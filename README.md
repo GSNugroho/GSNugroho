@@ -25,8 +25,8 @@ I am a seasoned Software Developer with a strong track record of building scalab
 
 ### 📊 GitHub Activities
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=dark" alt="GitHub Stats" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=dark" alt="Top Languages" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=GSNugroho&show_icons=true&theme=dark" alt="GitHub Stats" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSNugroho&layout=compact&theme=dark" alt="Top Languages" height="160" />
 </p>
 
 ---
