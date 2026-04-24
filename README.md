@@ -1,4 +1,4 @@
-# Hi, I'm Galih Setyo! 👋
+# Hi, I'm Galih Nugroho! 👋
 ### Full-stack Web Developer
 
 I am a seasoned Software Developer with a strong track record of building scalable business systems and inventory management tools since 2018. Expert in crafting efficient back-end architectures and seamless web experiences.
