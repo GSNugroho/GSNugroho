@@ -24,11 +24,11 @@ I am a professional **Full-Stack Web Developer** based in Indonesia, specializin
 
 ---
 
-### 📈 GitHub Stats
-
+### 🏆 GitHub Trophies
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GSNugroho&show_icons=true&theme=tokyonight" alt="Galih's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSNugroho&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="150" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=GSNugroho&theme=tokyonight&column=7" alt="GSNugroho Trophies" />
+  </a>
 </p>
 
 ---
