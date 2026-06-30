@@ -1,35 +1,38 @@
-# Hi, I'm Galih Nugroho! 👋
-### Full-stack Web Developer
+# Hi there, I'm Galih Setyo Nugroho 👋
 
-I am a seasoned Software Developer with a strong track record of building scalable business systems and inventory management tools since 2018. Expert in crafting efficient back-end architectures and seamless web experiences.
-
----
-
-### 🛠️ Tech Stack
-
-**Backend & Frameworks**
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/codeigniter-%23EF4223.svg?style=flat-square&logo=codeigniter&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-
-**Database & Tools**
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
-> **Focus:** I have a deep interest in Sentiment Analysis (Twitter Data) and specialized in building Management Information Systems (MIS) and Inventory Tools.
+I am a professional **Full-Stack Web Developer** based in Indonesia, specializing in building large-scale internal company systems, inventory management, and high-performance web applications. I bridge the gap between robust backend logic and clean, modern user interfaces.
 
 ---
 
-### 📊 GitHub Activities
+### 🚀 What I Do
+* 💻 **Full-Stack Development:** Crafting scalable web applications using PHP (Laravel), Node.js, and modern frontend tools.
+* 📦 **Enterprise Systems:** Experienced in developing complex inventory management, FIFO systems, and internal corporate tools.
+* 🛠️ **System Optimization:** Refactoring legacy code (including Delphi migrations), optimizing database queries, and improving SEO/Sitemaps.
+* 🛸 **AI Integration:** Implementing AI orchestration layers and automated workflows into web applications.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Backend** | `PHP` `Laravel` `Node.js` `Delphi` |
+| **Frontend** | `JavaScript` `TailwindCSS` `Bootstrap` |
+| **Databases** | `MySQL` `Supabase` `PostgreSQL` |
+| **DevOps & Cloud** | `Google Cloud` `Vercel` `Contabo` `GitHub Actions` |
+| **APIs & Tools** | `Postman` `Git` `GitHub Copilot` |
+
+---
+
+### 📈 GitHub Stats
+
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=GSNugroho&show_icons=true&theme=dark" alt="GitHub Stats" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSNugroho&layout=compact&theme=dark" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GSNugroho&show_icons=true&theme=tokyonight" alt="Galih's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSNugroho&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="150" />
 </p>
 
 ---
 
-### 🤝 Let's Collaborate
-Currently active on **Upwork** and **Fastwork**. If you need a reliable developer for inventory systems, ERP, or custom web solutions, let's talk!
+### 🌐 Let's Connect!
+* 💼 **Available for Freelance:** Open to technical projects, system optimizations, and full-stack development.
+* 🌍 **Projects:** Check out my production work or feel free to open an issue/PR!
